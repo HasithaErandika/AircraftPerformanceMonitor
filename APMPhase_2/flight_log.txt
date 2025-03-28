@@ -1,0 +1,196 @@
+[0 s] Alt: 2 ft, Speed: 24 kt, Fuel: 499.8 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[1 s] Alt: 5 ft, Speed: 28 kt, Fuel: 499.5 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[2 s] Alt: 8 ft, Speed: 32 kt, Fuel: 499.3 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[3 s] Alt: 12 ft, Speed: 36 kt, Fuel: 499.0 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[4 s] Alt: 16 ft, Speed: 40 kt, Fuel: 498.8 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[5 s] Alt: 20 ft, Speed: 44 kt, Fuel: 498.6 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[6 s] Alt: 25 ft, Speed: 48 kt, Fuel: 498.3 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[7 s] Alt: 30 ft, Speed: 52 kt, Fuel: 498.1 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[8 s] Alt: 36 ft, Speed: 56 kt, Fuel: 497.8 gal, Throttle: 0.80, Phase: Takeoff
+[WARNING] Stall risk!
+[9 s] Alt: 42 ft, Speed: 60 kt, Fuel: 497.6 gal, Throttle: 0.80, Phase: Takeoff
+[10 s] Alt: 48 ft, Speed: 64 kt, Fuel: 497.4 gal, Throttle: 0.80, Phase: Takeoff
+[11 s] Alt: 55 ft, Speed: 68 kt, Fuel: 497.1 gal, Throttle: 0.80, Phase: Takeoff
+[12 s] Alt: 62 ft, Speed: 72 kt, Fuel: 496.9 gal, Throttle: 0.80, Phase: Takeoff
+[13 s] Alt: 70 ft, Speed: 76 kt, Fuel: 496.6 gal, Throttle: 0.80, Phase: Takeoff
+[14 s] Alt: 78 ft, Speed: 80 kt, Fuel: 496.4 gal, Throttle: 0.80, Phase: Takeoff
+[15 s] Alt: 86 ft, Speed: 84 kt, Fuel: 496.2 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[16 s] Alt: 129 ft, Speed: 85 kt, Fuel: 496.0 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[17 s] Alt: 172 ft, Speed: 86 kt, Fuel: 495.8 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[18 s] Alt: 216 ft, Speed: 87 kt, Fuel: 495.7 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[19 s] Alt: 260 ft, Speed: 88 kt, Fuel: 495.5 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[20 s] Alt: 305 ft, Speed: 89 kt, Fuel: 495.4 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[21 s] Alt: 350 ft, Speed: 91 kt, Fuel: 495.2 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[22 s] Alt: 396 ft, Speed: 92 kt, Fuel: 495.0 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[23 s] Alt: 442 ft, Speed: 93 kt, Fuel: 494.9 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[24 s] Alt: 489 ft, Speed: 94 kt, Fuel: 494.7 gal, Throttle: 0.80, Phase: Climb
+[WARNING] Low altitude!
+[25 s] Alt: 537 ft, Speed: 95 kt, Fuel: 494.6 gal, Throttle: 0.80, Phase: Climb
+[26 s] Alt: 585 ft, Speed: 96 kt, Fuel: 494.4 gal, Throttle: 0.80, Phase: Climb
+[27 s] Alt: 633 ft, Speed: 97 kt, Fuel: 494.2 gal, Throttle: 0.80, Phase: Climb
+[28 s] Alt: 682 ft, Speed: 98 kt, Fuel: 494.1 gal, Throttle: 0.80, Phase: Climb
+[29 s] Alt: 732 ft, Speed: 99 kt, Fuel: 493.9 gal, Throttle: 0.80, Phase: Climb
+[30 s] Alt: 782 ft, Speed: 100 kt, Fuel: 493.8 gal, Throttle: 0.80, Phase: Climb
+[31 s] Alt: 833 ft, Speed: 102 kt, Fuel: 493.6 gal, Throttle: 0.80, Phase: Climb
+[32 s] Alt: 885 ft, Speed: 103 kt, Fuel: 493.4 gal, Throttle: 0.80, Phase: Climb
+[33 s] Alt: 936 ft, Speed: 104 kt, Fuel: 493.3 gal, Throttle: 0.80, Phase: Climb
+[34 s] Alt: 989 ft, Speed: 105 kt, Fuel: 493.1 gal, Throttle: 0.80, Phase: Climb
+[35 s] Alt: 1042 ft, Speed: 106 kt, Fuel: 493.0 gal, Throttle: 0.80, Phase: Climb
+[36 s] Alt: 1095 ft, Speed: 107 kt, Fuel: 492.8 gal, Throttle: 0.80, Phase: Climb
+[37 s] Alt: 1150 ft, Speed: 108 kt, Fuel: 492.6 gal, Throttle: 0.80, Phase: Climb
+[38 s] Alt: 1204 ft, Speed: 109 kt, Fuel: 492.5 gal, Throttle: 0.80, Phase: Climb
+[39 s] Alt: 1259 ft, Speed: 110 kt, Fuel: 492.3 gal, Throttle: 0.80, Phase: Climb
+[40 s] Alt: 1315 ft, Speed: 111 kt, Fuel: 492.2 gal, Throttle: 0.80, Phase: Climb
+[41 s] Alt: 1371 ft, Speed: 113 kt, Fuel: 492.0 gal, Throttle: 0.80, Phase: Climb
+[42 s] Alt: 1428 ft, Speed: 114 kt, Fuel: 491.8 gal, Throttle: 0.80, Phase: Climb
+[43 s] Alt: 1486 ft, Speed: 115 kt, Fuel: 491.7 gal, Throttle: 0.80, Phase: Climb
+[44 s] Alt: 1544 ft, Speed: 116 kt, Fuel: 491.5 gal, Throttle: 0.80, Phase: Climb
+[45 s] Alt: 1602 ft, Speed: 117 kt, Fuel: 491.4 gal, Throttle: 0.80, Phase: Climb
+[46 s] Alt: 1661 ft, Speed: 118 kt, Fuel: 491.2 gal, Throttle: 0.80, Phase: Climb
+[47 s] Alt: 1721 ft, Speed: 119 kt, Fuel: 491.0 gal, Throttle: 0.80, Phase: Climb
+[48 s] Alt: 1781 ft, Speed: 120 kt, Fuel: 490.9 gal, Throttle: 0.80, Phase: Climb
+[49 s] Alt: 1842 ft, Speed: 121 kt, Fuel: 490.7 gal, Throttle: 0.80, Phase: Climb
+[50 s] Alt: 1903 ft, Speed: 122 kt, Fuel: 490.6 gal, Throttle: 0.80, Phase: Climb
+[51 s] Alt: 1965 ft, Speed: 124 kt, Fuel: 490.4 gal, Throttle: 0.80, Phase: Climb
+[52 s] Alt: 2027 ft, Speed: 125 kt, Fuel: 490.2 gal, Throttle: 0.80, Phase: Climb
+[53 s] Alt: 2090 ft, Speed: 126 kt, Fuel: 490.1 gal, Throttle: 0.80, Phase: Climb
+[54 s] Alt: 2153 ft, Speed: 127 kt, Fuel: 489.9 gal, Throttle: 0.80, Phase: Climb
+[55 s] Alt: 2217 ft, Speed: 128 kt, Fuel: 489.8 gal, Throttle: 0.80, Phase: Climb
+[56 s] Alt: 2282 ft, Speed: 129 kt, Fuel: 489.6 gal, Throttle: 0.80, Phase: Climb
+[57 s] Alt: 2347 ft, Speed: 130 kt, Fuel: 489.4 gal, Throttle: 0.80, Phase: Climb
+[58 s] Alt: 2413 ft, Speed: 131 kt, Fuel: 489.3 gal, Throttle: 0.80, Phase: Climb
+[59 s] Alt: 2479 ft, Speed: 132 kt, Fuel: 489.1 gal, Throttle: 0.80, Phase: Climb
+[60 s] Alt: 2546 ft, Speed: 133 kt, Fuel: 489.0 gal, Throttle: 0.80, Phase: Climb
+[61 s] Alt: 2613 ft, Speed: 135 kt, Fuel: 488.8 gal, Throttle: 0.80, Phase: Climb
+[62 s] Alt: 2681 ft, Speed: 136 kt, Fuel: 488.6 gal, Throttle: 0.80, Phase: Climb
+[63 s] Alt: 2749 ft, Speed: 137 kt, Fuel: 488.5 gal, Throttle: 0.80, Phase: Climb
+[64 s] Alt: 2818 ft, Speed: 138 kt, Fuel: 488.3 gal, Throttle: 0.80, Phase: Climb
+[65 s] Alt: 2888 ft, Speed: 139 kt, Fuel: 488.2 gal, Throttle: 0.80, Phase: Climb
+[66 s] Alt: 2958 ft, Speed: 140 kt, Fuel: 488.0 gal, Throttle: 0.80, Phase: Climb
+[67 s] Alt: 3028 ft, Speed: 141 kt, Fuel: 487.8 gal, Throttle: 0.80, Phase: Climb
+[68 s] Alt: 3099 ft, Speed: 142 kt, Fuel: 487.7 gal, Throttle: 0.80, Phase: Climb
+[69 s] Alt: 3171 ft, Speed: 143 kt, Fuel: 487.5 gal, Throttle: 0.80, Phase: Climb
+[70 s] Alt: 3243 ft, Speed: 145 kt, Fuel: 487.4 gal, Throttle: 0.80, Phase: Climb
+[71 s] Alt: 3316 ft, Speed: 146 kt, Fuel: 487.2 gal, Throttle: 0.80, Phase: Climb
+[72 s] Alt: 3390 ft, Speed: 147 kt, Fuel: 487.0 gal, Throttle: 0.80, Phase: Climb
+[73 s] Alt: 3463 ft, Speed: 148 kt, Fuel: 486.9 gal, Throttle: 0.80, Phase: Climb
+[74 s] Alt: 3538 ft, Speed: 149 kt, Fuel: 486.7 gal, Throttle: 0.80, Phase: Climb
+[75 s] Alt: 3613 ft, Speed: 150 kt, Fuel: 486.6 gal, Throttle: 0.80, Phase: Climb
+[76 s] Alt: 3688 ft, Speed: 151 kt, Fuel: 486.4 gal, Throttle: 0.80, Phase: Climb
+[77 s] Alt: 3765 ft, Speed: 152 kt, Fuel: 486.2 gal, Throttle: 0.80, Phase: Climb
+[78 s] Alt: 3841 ft, Speed: 153 kt, Fuel: 486.1 gal, Throttle: 0.80, Phase: Climb
+[79 s] Alt: 3918 ft, Speed: 154 kt, Fuel: 485.9 gal, Throttle: 0.80, Phase: Climb
+[80 s] Alt: 3996 ft, Speed: 156 kt, Fuel: 485.8 gal, Throttle: 0.80, Phase: Climb
+[81 s] Alt: 4074 ft, Speed: 157 kt, Fuel: 485.6 gal, Throttle: 0.80, Phase: Climb
+[82 s] Alt: 4153 ft, Speed: 158 kt, Fuel: 485.4 gal, Throttle: 0.80, Phase: Climb
+[83 s] Alt: 4233 ft, Speed: 159 kt, Fuel: 485.3 gal, Throttle: 0.80, Phase: Climb
+[84 s] Alt: 4313 ft, Speed: 160 kt, Fuel: 485.1 gal, Throttle: 0.80, Phase: Climb
+[85 s] Alt: 4393 ft, Speed: 161 kt, Fuel: 485.0 gal, Throttle: 0.80, Phase: Climb
+[86 s] Alt: 4474 ft, Speed: 162 kt, Fuel: 484.8 gal, Throttle: 0.80, Phase: Climb
+[87 s] Alt: 4556 ft, Speed: 163 kt, Fuel: 484.6 gal, Throttle: 0.80, Phase: Climb
+[88 s] Alt: 4638 ft, Speed: 164 kt, Fuel: 484.5 gal, Throttle: 0.80, Phase: Climb
+[89 s] Alt: 4721 ft, Speed: 165 kt, Fuel: 484.3 gal, Throttle: 0.80, Phase: Climb
+[90 s] Alt: 4804 ft, Speed: 167 kt, Fuel: 484.2 gal, Throttle: 0.80, Phase: Climb
+[91 s] Alt: 4888 ft, Speed: 168 kt, Fuel: 484.0 gal, Throttle: 0.80, Phase: Climb
+[92 s] Alt: 4972 ft, Speed: 169 kt, Fuel: 483.8 gal, Throttle: 0.80, Phase: Climb
+[93 s] Alt: 5057 ft, Speed: 170 kt, Fuel: 483.7 gal, Throttle: 0.80, Phase: Climb
+[94 s] Alt: 5142 ft, Speed: 171 kt, Fuel: 483.5 gal, Throttle: 0.80, Phase: Climb
+[95 s] Alt: 5228 ft, Speed: 172 kt, Fuel: 483.4 gal, Throttle: 0.80, Phase: Climb
+[96 s] Alt: 5315 ft, Speed: 173 kt, Fuel: 483.2 gal, Throttle: 0.80, Phase: Climb
+[97 s] Alt: 5402 ft, Speed: 174 kt, Fuel: 483.0 gal, Throttle: 0.80, Phase: Climb
+[98 s] Alt: 5490 ft, Speed: 175 kt, Fuel: 482.9 gal, Throttle: 0.80, Phase: Climb
+[99 s] Alt: 5578 ft, Speed: 176 kt, Fuel: 482.7 gal, Throttle: 0.80, Phase: Climb
+[100 s] Alt: 5667 ft, Speed: 178 kt, Fuel: 482.6 gal, Throttle: 0.80, Phase: Climb
+[101 s] Alt: 5756 ft, Speed: 179 kt, Fuel: 482.4 gal, Throttle: 0.80, Phase: Climb
+[102 s] Alt: 5846 ft, Speed: 180 kt, Fuel: 482.2 gal, Throttle: 0.80, Phase: Climb
+[103 s] Alt: 5936 ft, Speed: 181 kt, Fuel: 482.1 gal, Throttle: 0.80, Phase: Climb
+[104 s] Alt: 6027 ft, Speed: 182 kt, Fuel: 481.9 gal, Throttle: 0.80, Phase: Climb
+[105 s] Alt: 6119 ft, Speed: 183 kt, Fuel: 481.8 gal, Throttle: 0.80, Phase: Climb
+[106 s] Alt: 6211 ft, Speed: 184 kt, Fuel: 481.6 gal, Throttle: 0.80, Phase: Climb
+[107 s] Alt: 6303 ft, Speed: 185 kt, Fuel: 481.4 gal, Throttle: 0.80, Phase: Climb
+[108 s] Alt: 6396 ft, Speed: 186 kt, Fuel: 481.3 gal, Throttle: 0.80, Phase: Climb
+[109 s] Alt: 6490 ft, Speed: 187 kt, Fuel: 481.1 gal, Throttle: 0.80, Phase: Climb
+[110 s] Alt: 6584 ft, Speed: 189 kt, Fuel: 481.0 gal, Throttle: 0.80, Phase: Climb
+[111 s] Alt: 6679 ft, Speed: 190 kt, Fuel: 480.8 gal, Throttle: 0.80, Phase: Climb
+[112 s] Alt: 6775 ft, Speed: 191 kt, Fuel: 480.6 gal, Throttle: 0.80, Phase: Climb
+[113 s] Alt: 6870 ft, Speed: 192 kt, Fuel: 480.5 gal, Throttle: 0.80, Phase: Climb
+[114 s] Alt: 6967 ft, Speed: 193 kt, Fuel: 480.3 gal, Throttle: 0.80, Phase: Climb
+[115 s] Alt: 7064 ft, Speed: 194 kt, Fuel: 480.2 gal, Throttle: 0.80, Phase: Climb
+[116 s] Alt: 7161 ft, Speed: 195 kt, Fuel: 480.0 gal, Throttle: 0.80, Phase: Climb
+[117 s] Alt: 7260 ft, Speed: 196 kt, Fuel: 479.8 gal, Throttle: 0.80, Phase: Climb
+[118 s] Alt: 7358 ft, Speed: 197 kt, Fuel: 479.7 gal, Throttle: 0.80, Phase: Climb
+[119 s] Alt: 7457 ft, Speed: 198 kt, Fuel: 479.5 gal, Throttle: 0.80, Phase: Climb
+[120 s] Alt: 7557 ft, Speed: 200 kt, Fuel: 479.4 gal, Throttle: 0.80, Phase: Climb
+[121 s] Alt: 7657 ft, Speed: 201 kt, Fuel: 479.2 gal, Throttle: 0.80, Phase: Climb
+[122 s] Alt: 7758 ft, Speed: 202 kt, Fuel: 479.0 gal, Throttle: 0.80, Phase: Climb
+[123 s] Alt: 7860 ft, Speed: 203 kt, Fuel: 478.9 gal, Throttle: 0.80, Phase: Climb
+[124 s] Alt: 7962 ft, Speed: 204 kt, Fuel: 478.7 gal, Throttle: 0.80, Phase: Climb
+[125 s] Alt: 8064 ft, Speed: 205 kt, Fuel: 478.6 gal, Throttle: 0.80, Phase: Climb
+[126 s] Alt: 8167 ft, Speed: 206 kt, Fuel: 478.4 gal, Throttle: 0.80, Phase: Climb
+[127 s] Alt: 8271 ft, Speed: 207 kt, Fuel: 478.2 gal, Throttle: 0.80, Phase: Climb
+[128 s] Alt: 8375 ft, Speed: 208 kt, Fuel: 478.1 gal, Throttle: 0.80, Phase: Climb
+[129 s] Alt: 8480 ft, Speed: 209 kt, Fuel: 477.9 gal, Throttle: 0.80, Phase: Climb
+[130 s] Alt: 8585 ft, Speed: 211 kt, Fuel: 477.8 gal, Throttle: 0.80, Phase: Climb
+[131 s] Alt: 8691 ft, Speed: 212 kt, Fuel: 477.6 gal, Throttle: 0.80, Phase: Climb
+[132 s] Alt: 8797 ft, Speed: 213 kt, Fuel: 477.4 gal, Throttle: 0.80, Phase: Climb
+[133 s] Alt: 8904 ft, Speed: 214 kt, Fuel: 477.3 gal, Throttle: 0.80, Phase: Climb
+[134 s] Alt: 9011 ft, Speed: 215 kt, Fuel: 477.1 gal, Throttle: 0.80, Phase: Climb
+[135 s] Alt: 9119 ft, Speed: 216 kt, Fuel: 477.0 gal, Throttle: 0.80, Phase: Climb
+[136 s] Alt: 9228 ft, Speed: 217 kt, Fuel: 476.8 gal, Throttle: 0.80, Phase: Climb
+[137 s] Alt: 9337 ft, Speed: 218 kt, Fuel: 476.6 gal, Throttle: 0.80, Phase: Climb
+[138 s] Alt: 9447 ft, Speed: 219 kt, Fuel: 476.5 gal, Throttle: 0.80, Phase: Climb
+[139 s] Alt: 9557 ft, Speed: 220 kt, Fuel: 476.3 gal, Throttle: 0.80, Phase: Climb
+[140 s] Alt: 9668 ft, Speed: 222 kt, Fuel: 476.2 gal, Throttle: 0.80, Phase: Climb
+[141 s] Alt: 9779 ft, Speed: 223 kt, Fuel: 476.0 gal, Throttle: 0.80, Phase: Climb
+[142 s] Alt: 9891 ft, Speed: 224 kt, Fuel: 475.8 gal, Throttle: 0.80, Phase: Climb
+[143 s] Alt: 10003 ft, Speed: 225 kt, Fuel: 475.7 gal, Throttle: 0.80, Phase: Cruise
+[144 s] Alt: 10003 ft, Speed: 224 kt, Fuel: 475.6 gal, Throttle: 0.80, Phase: Cruise
+[145 s] Alt: 10003 ft, Speed: 222 kt, Fuel: 475.4 gal, Throttle: 0.80, Phase: Cruise
+[146 s] Alt: 10002 ft, Speed: 221 kt, Fuel: 475.3 gal, Throttle: 0.80, Phase: Cruise
+[147 s] Alt: 10002 ft, Speed: 220 kt, Fuel: 475.2 gal, Throttle: 0.80, Phase: Cruise
+[148 s] Alt: 10002 ft, Speed: 219 kt, Fuel: 475.1 gal, Throttle: 0.80, Phase: Cruise
+[149 s] Alt: 10002 ft, Speed: 218 kt, Fuel: 475.0 gal, Throttle: 0.80, Phase: Cruise
+[150 s] Alt: 10002 ft, Speed: 217 kt, Fuel: 474.8 gal, Throttle: 0.80, Phase: Cruise
+[151 s] Alt: 10001 ft, Speed: 216 kt, Fuel: 474.7 gal, Throttle: 0.80, Phase: Cruise
+[152 s] Alt: 10001 ft, Speed: 216 kt, Fuel: 474.6 gal, Throttle: 0.80, Phase: Cruise
+[153 s] Alt: 10001 ft, Speed: 215 kt, Fuel: 474.5 gal, Throttle: 0.80, Phase: Cruise
+[154 s] Alt: 10001 ft, Speed: 214 kt, Fuel: 474.4 gal, Throttle: 0.80, Phase: Cruise
+[155 s] Alt: 10001 ft, Speed: 213 kt, Fuel: 474.2 gal, Throttle: 0.80, Phase: Cruise
+[156 s] Alt: 10001 ft, Speed: 213 kt, Fuel: 474.1 gal, Throttle: 0.80, Phase: Cruise
+[157 s] Alt: 10001 ft, Speed: 212 kt, Fuel: 474.0 gal, Throttle: 0.80, Phase: Cruise
+[158 s] Alt: 10001 ft, Speed: 211 kt, Fuel: 473.9 gal, Throttle: 0.80, Phase: Cruise
+[159 s] Alt: 10001 ft, Speed: 211 kt, Fuel: 473.8 gal, Throttle: 0.80, Phase: Cruise
+[160 s] Alt: 10001 ft, Speed: 210 kt, Fuel: 473.6 gal, Throttle: 0.80, Phase: Cruise
+[161 s] Alt: 10000 ft, Speed: 210 kt, Fuel: 473.5 gal, Throttle: 0.80, Phase: Cruise
+[162 s] Alt: 10000 ft, Speed: 209 kt, Fuel: 473.4 gal, Throttle: 0.80, Phase: Cruise
+[163 s] Alt: 10000 ft, Speed: 209 kt, Fuel: 473.3 gal, Throttle: 0.80, Phase: Cruise
+[164 s] Alt: 10000 ft, Speed: 208 kt, Fuel: 473.2 gal, Throttle: 0.80, Phase: Cruise
+[165 s] Alt: 10000 ft, Speed: 208 kt, Fuel: 473.0 gal, Throttle: 0.80, Phase: Cruise
+[166 s] Alt: 10000 ft, Speed: 208 kt, Fuel: 472.9 gal, Throttle: 0.80, Phase: Cruise
+[167 s] Alt: 10000 ft, Speed: 207 kt, Fuel: 472.8 gal, Throttle: 0.80, Phase: Cruise
+[168 s] Alt: 10000 ft, Speed: 207 kt, Fuel: 472.7 gal, Throttle: 0.80, Phase: Cruise
+[169 s] Alt: 10000 ft, Speed: 207 kt, Fuel: 472.6 gal, Throttle: 0.80, Phase: Cruise
+[170 s] Alt: 10000 ft, Speed: 206 kt, Fuel: 472.4 gal, Throttle: 0.80, Phase: Cruise
+[171 s] Alt: 10000 ft, Speed: 206 kt, Fuel: 472.3 gal, Throttle: 0.80, Phase: Cruise
+[172 s] Alt: 10000 ft, Speed: 206 kt, Fuel: 472.2 gal, Throttle: 0.80, Phase: Cruise
+[173 s] Alt: 10000 ft, Speed: 205 kt, Fuel: 472.1 gal, Throttle: 0.80, Phase: Cruise
+[174 s] Alt: 10000 ft, Speed: 205 kt, Fuel: 472.0 gal, Throttle: 0.80, Phase: Cruise
+[175 s] Alt: 10000 ft, Speed: 205 kt, Fuel: 471.8 gal, Throttle: 0.80, Phase: Cruise
+[176 s] Alt: 10000 ft, Speed: 205 kt, Fuel: 471.7 gal, Throttle: 0.80, Phase: Cruise
