@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <windows.h> // Swap to <unistd.h> for Linux/Mac
+#include <windows.h>
+#include <conio.h> 
 
 // Flight data struct
 struct FlightData {
