@@ -1,11 +1,12 @@
-# Aircraft Performance Monitor (APM)
-A C-based project for real-time aircraft performance tracking.
+# APM Phase 1 - Advanced Flight Monitor
+Real-time aircraft simulation with takeoff, climb, and cruise phases.
 
-## APM Phase 1
-- Path: `APM Phase 1/apm.c`
-- Features: Monitors altitude, speed, fuel with warnings (low altitude, crash).
-- Run: `gcc "APM Phase 1/apm.c" -o apm`, then `apm`
+## Features
+- Tracks altitude, speed, fuel, throttle.
+- Dynamic phase transitions.
+- User throttle input ('t', 0-1).
+- Warnings: stall, overspeed, crash.
 
-## Future Phases
-- Phase 2: File logging
-- Phase 3: Data analysis (Python)
+## Run
+- `gcc "APMPhase_1/apm.c" -o apm`
+- `apm`
