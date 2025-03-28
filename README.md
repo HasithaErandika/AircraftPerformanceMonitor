@@ -66,3 +66,7 @@ This project stems from a passion for **aerospace engineering and RC planes**, a
 ✅ **Professional** – Well-documented, ideal for showcasing to recruiters.  
 ✅ **Personal** – Highlights **your aerospace passion** and software expertise.
 
+---
+
+## 🤖 AI Assistance
+Parts of this project, including modifications to Phase 1 and Phase 2 documentation, were improved with AI assistance (Grock 3). The core implementation and ideas remain original, ensuring alignment with the project's learning and development goals.
