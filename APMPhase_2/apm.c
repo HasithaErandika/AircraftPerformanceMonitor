@@ -69,7 +69,7 @@ int main() {
     struct FlightData plane = {0, 20, 500, 0.8, 0};
     int time = 0;
     char input;
-    FILE* log = fopen("APMPhase_2/flight_log.txt", "w");
+    FILE* log = fopen("flight_log.txt", "w");
 
     if (log == NULL) {
         printf("ERROR: Could not open flight_log.txt!\n");
