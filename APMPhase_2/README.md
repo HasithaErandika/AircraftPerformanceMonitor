@@ -1,89 +1,88 @@
-# ✈️ APM Phase 2 - Flight Monitor with Data Logging
-
-The **Aircraft Performance Monitor (APM) - Phase 2** builds upon Phase 1 by introducing **flight data logging**, effectively simulating an aircraft's **black box** in C.
 
 ---
 
-## 🚀 Features
-- **Includes All Phase 1 Features**:
-  - Automatic flight phases: **Takeoff, Climb, Cruise**
-  - **Throttle Control** via keyboard (`t` key)
-  - **Warnings & Alerts** (stall, overspeed, low altitude, crash detection)
-- **Real-Time Data Logging**:
-  - Records every second: **Time, Altitude, Speed, Fuel, Throttle, Flight Phase**
-  - Saves to `flight_log.txt`
-- **Warning Logs**: Captures alerts (e.g., "⚠️ Low Fuel!") in the log file.
-- **Input Tracking**: Logs throttle changes for traceability.
-- **Robust Logging System**:
-  - **Error Handling** for file operations—avionics-grade reliability.
+# ✈️ APM Phase 2: Flight Simulator with Logging
+
+This is **Phase 2** of the APM (Aircraft Performance Model) simulation. It builds on the original console-based aircraft system by adding **flight data logging** to a file (`flight_log.txt`) while maintaining real-time input and warnings.
 
 ---
 
-## 📂 Source Code
-- **`apm.c`** - Main C program with logging functionality.
-- **`flight_log.txt`** - Output log file (generated in `APMPhase_2/`).
+## 🧩 Features
+
+* ✅ **Simulates aircraft behavior**: throttle, speed, altitude, fuel, and flight phase
+* ⏱ **Real-time simulation**: console updates every second
+* 🔁 **Dynamic flight phases**:
+
+    * `Takeoff` → `Climb` → `Cruise`
+* 🧠 **Flight warnings** for:
+
+    * Low altitude
+    * Overspeed
+    * Stall risk
+    * Low fuel
+    * Critical crash
+* 📝 **Data logging**:
+
+    * Writes flight data and warnings to `flight_log.txt`
+    * Logs throttle changes and final stats
+
 
 ---
 
-## 🔧 Prerequisites
-- **GCC Compiler** (e.g., MinGW-w64 via MSYS2)
-- **Windows OS** (uses `<windows.h>` and `<conio.h>` for real-time input and delays)
+## 🚀 How to Run
+
+```bash
+./apm.exe
+```
+
+* Press `t` to set a new throttle (0.0 to 1.0)
+* Press `q` to quit the simulation early
 
 ---
 
-## 🏗️ Build & Run
-1. Open a terminal in the `AircraftPerformanceMonitor` root directory (e.g., VS Code CMD).
-2. Compile the program:
-   ```bash
-   gcc "APMPhase_2/apm.c" -o "APMPhase_2/apm"
-   ```
-3. Run the program:
-   ```bash
-   "APMPhase_2/apm"
-   ```
+## 📝 Output Example
 
----
-
-## 🎮 How to Use
-- **Start**: The simulation begins in **takeoff phase** and logs data to `flight_log.txt`.
-- **Adjust Throttle**: Press `t`, enter a new throttle value (0-1), then press **Enter**.
-- **Exit**: Press `q` to quit the simulation.
-- **Monitor Data**: Console displays real-time flight stats, while `flight_log.txt` stores all recorded data.
-- **Post-Flight Analysis**: Open `APMPhase_2/flight_log.txt` to review recorded events.
-
----
-
-## 📊 Example Output
-### **Console Output**:
 ```
 APM Phase 2: 't' to set throttle (0-1), 'q' to quit
 Starting Takeoff... Logging to flight_log.txt
-Time: 0 s | Alt: 0 ft | Speed: 24 kt | Fuel: 499.8 gal | Throttle: 0.80 | Phase: Takeoff
-Time: 50 s | Alt: 10000 ft | Speed: 230 kt | Fuel: 490.0 gal | Throttle: 0.80 | Phase: Cruise
-WARNING: Low fuel!
-```
-
-### **`flight_log.txt` Output**:
-```
-[0 s] Alt: 0 ft, Speed: 24 kt, Fuel: 499.8 gal, Throttle: 0.80, Phase: Takeoff
-[1 s] Alt: 2 ft, Speed: 28 kt, Fuel: 499.5 gal, Throttle: 0.80, Phase: Takeoff
+Time: 0 s | Alt: 0 ft | Speed: 20 kt | Fuel: 500.0 gal | Throttle: 0.80 | Phase: Takeoff
 ...
-[50 s] Alt: 10000 ft, Speed: 230 kt, Fuel: 490.0 gal, Throttle: 0.80, Phase: Cruise
+WARNING: Low fuel!
+Time: 52 s | Alt: 10400 ft | Speed: 350 kt | Fuel: 48.3 gal | Throttle: 0.75 | Phase: Cruise
+```
+
+The log file `flight_log.txt` might look like:
+
+```
+[INPUT] Throttle set to 0.80
+[0 s] Alt: 0 ft, Speed: 20 kt, Fuel: 500.0 gal, Throttle: 0.80, Phase: Takeoff
+[1 s] Alt: 2 ft, Speed: 24 kt, Fuel: 499.8 gal, Throttle: 0.80, Phase: Takeoff
 [WARNING] Low fuel!
-[END] Alt: 10000 ft, Speed: 230 kt, Fuel: 48.0 gal, Phase: Cruise
+...
+[END] Alt: 10800 ft, Speed: 360 kt, Fuel: 45.2 gal, Phase: Cruise
 ```
 
 ---
 
-## 📝 Notes
-- **Log format is human-readable**—Phase 3 will introduce data parsing (e.g., CSV format for analysis).
-- **File Overwrites on Each Run**—can be modified to append mode (`"a"`).
-- **Aerospace Connection**: Simulates real-world **Flight Data Recorders (FDRs)**.
+## ⚠️ Flight Warnings
+
+These are shown **in-console** and **logged to file**:
+
+* `Low altitude!` — Altitude < 500 ft outside takeoff
+* `Overspeed!` — Speed > 400 knots
+* `Low fuel!` — Fuel < 50 gallons
+* `Stall risk!` — Speed < 60 knots unless cruising
+* `Crash!` — Negative fuel or altitude
 
 ---
 
-## 🎯 Why This Project Stands Out
-✅ **Comprehensive**: Real-time logging bridges software and aviation.  
-✅ **Clear & Practical**: Build and execution instructions align with Phase 1.  
-✅ **Future-Oriented**: Introduces data storage, setting up Phase 3 for analysis tools.
+## 🔍 Key Components
 
+| Function          | Purpose                                  |
+| ----------------- | ---------------------------------------- |
+| `updateFlight()`  | Simulates physics based on current state |
+| `getPhaseName()`  | Converts numeric phase to readable text  |
+| `checkWarnings()` | Issues and logs safety alerts            |
+| `logData()`       | Logs current flight state to file        |
+
+---
